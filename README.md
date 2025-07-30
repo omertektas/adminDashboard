@@ -2,6 +2,7 @@
 This project demonstrates essential concepts of building a functional admin panel using React, including routing, authentication, protected pages, data fetching, context usage, and UI design.
 
 ⚙️ Features:
+
 Authentication with login/logout using Context API
 
 Route protection using React Router and ProtectedRoute
