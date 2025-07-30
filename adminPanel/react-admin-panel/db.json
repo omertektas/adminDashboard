@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Ahmet Yılmaz",
+      "email": "ahmet@example.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Zeynep Demir",
+      "email": "zeynep@example.com"
+    },
+    {
+      "name": "Ömer Tektaş",
+      "email": "omer@example.com",
+      "id": "c3ec"
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14",
+      "price": 43000,
+      "stock": 81,
+      "id": "2"
+    },
+    {
+      "id": "a5be",
+      "name": "Macbook Air M4",
+      "price": 54000,
+      "stock": 58
+    },
+    {
+      "id": "0bb1",
+      "name": "Airpods 4 ANC",
+      "price": 8000,
+      "stock": 30
+    }
+  ]
+}
